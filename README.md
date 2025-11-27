@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a certified Laravel developer with experience building scalable and high-performance web applications with the Laravel framework.<br>I am currently working at PDMFC company.
+I am a certified Laravel developer with experience building scalable and high-performance web applications with the Laravel framework.<br><br>
 
 
 ## 🌐 Socials:
